@@ -14,7 +14,7 @@ services:
   - selenium 
  # - sqlite 
  # - couchdb 
-  - rethinkdb 
+  - rethinkdb  
  # - riak
 # Version number
 lein:
